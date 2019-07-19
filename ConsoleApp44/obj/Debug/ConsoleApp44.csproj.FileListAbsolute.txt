@@ -1,0 +1,7 @@
+C:\Users\Антон Мацишин\source\repos\ConsoleApp44\ConsoleApp44\bin\Debug\ConsoleApp44.exe.config
+C:\Users\Антон Мацишин\source\repos\ConsoleApp44\ConsoleApp44\bin\Debug\ConsoleApp44.exe
+C:\Users\Антон Мацишин\source\repos\ConsoleApp44\ConsoleApp44\bin\Debug\ConsoleApp44.pdb
+C:\Users\Антон Мацишин\source\repos\ConsoleApp44\ConsoleApp44\obj\Debug\ConsoleApp44.csprojAssemblyReference.cache
+C:\Users\Антон Мацишин\source\repos\ConsoleApp44\ConsoleApp44\obj\Debug\ConsoleApp44.csproj.CoreCompileInputs.cache
+C:\Users\Антон Мацишин\source\repos\ConsoleApp44\ConsoleApp44\obj\Debug\ConsoleApp44.exe
+C:\Users\Антон Мацишин\source\repos\ConsoleApp44\ConsoleApp44\obj\Debug\ConsoleApp44.pdb
